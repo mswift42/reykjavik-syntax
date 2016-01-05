@@ -1,15 +1,15 @@
 {
   "name": "reykjavik-syntax",
   "theme": "syntax",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Atom syntax theme with a dark background and low saturated colors.",
   "keywords": [
     "syntax",
     "theme"
   ],
-    "repository": "https://github.com/mswift42/reykjavik-syntax",
-    "license": "MIT",
-    "engines": {
-        "atom": ">=1.0.0 <2.0.0"
-    }
+  "repository": "https://github.com/mswift42/reykjavik-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
